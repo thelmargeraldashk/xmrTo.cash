@@ -4,7 +4,7 @@
 https://xmrTo.cash aims to be a clone of the great site https://Xmr.to but just for use with XMR and BCH. 
 
 
-### What we do?
+### What we are tyring to do.
 
 xmrTo.cash is a simple tool that offers people who love to use cryptocurrencies the freedom and confidence to trade using the world's greatest privacy coin, Monero, with the world's greatest Peer-to-Peer Digital Currency, Bitcoin Cash.
  
